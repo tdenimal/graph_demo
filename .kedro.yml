@@ -1,0 +1,6 @@
+context_path: graph_demo.run.ProjectContext
+project_name: "graph_demo"
+project_version: "0.16.5"
+package_name: "graph_demo"
+hooks:
+  - graph_demo.hooks.project_hooks
